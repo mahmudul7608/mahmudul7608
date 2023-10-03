@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there, I am Mahmudul👋
+<h3><a>i'm a Front-End Develpoer in Bangladesh.</a></h3>
 
+<p>BIO</p>
 <!--
-**mahmudul7608/mahmudul7608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
