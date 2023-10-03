@@ -5,10 +5,10 @@
 <ul>
   <li>🏢 I’m currently intern in <strong>CONNEKT STUDIO</strong> </li>
   <li>🌱 I am learning: <strong> HTML, CSS and JavaScript</strong></li>
-  <li>⚙️ I use daily: <strong>HTML, CSS, Javascript, gi</strong> t</li>
+  <li>⚙️ I use daily: <strong>HTML, CSS, Javascript, git</strong> </li>
   <li>💬 Ping me about: <strong>JavaScript</strong>  </li>
   <li>📫 Reach me: https://www.facebook.com/maraj.786?mibextid=ZbWKwL</li>
-  <li>⚡ Fun fact: <strong>I like to travel </strong> </li>
+  <li>⚡ Fun fact: <strong>I like to traveling and programming </strong> </li>
 </ul>
 
 
