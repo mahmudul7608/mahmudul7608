@@ -1,6 +1,7 @@
 ### Hi there, I am Mahmudul👋
 
- <strong><a class="heading-link" haref="i'm-a-Front-End Develpoer-in-Bangladesh">i'm a Front-End Developer</a></strong>
+ <a class="heading-link" haref="i'm-a-Front-End Develpoer-in-Bangladesh">i'm a <strong>Front-End Developer</strong> from <Strong>Bangladesh </strong></a>
+
 
 <ul>
   <li>🏢 I’m currently intern in <strong>CONNEKT STUDIO</strong> </li>
