@@ -5,10 +5,12 @@
 
 <ul>
   <li>🏢 I’m currently intern in <strong>CONNEKT STUDIO</strong> </li>
-  <li>🌱 I am learning: <strong> HTML, CSS and JavaScript</strong></li>
-  <li>⚙️ I use daily: <strong>HTML, CSS, Javascript, git</strong> </li>
+  <li>🌱 I am learning: <strong> HTML, CSS, Tailwind CSS and JavaScript</strong></li>
+  <li>⚙️ I use daily: <strong>HTML, CSS, Talwind CSS, Javascript, Git and GitHub</strong> </li>
   <li>💬 Ping me about: <strong>JavaScript</strong>  </li>
   <li>📫 Reach me: https://twitter.com/Hasan01Mah69078</li>
+ or E-Mail
+ <li> dev.mahmudulhasan2@gmail.com</li>
   <li>⚡ Fun fact: <strong>I like to traveling and programming </strong> </li>
 </ul>
 
