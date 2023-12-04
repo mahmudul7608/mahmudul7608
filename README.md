@@ -1,6 +1,6 @@
 ### Hi there, I am Mahmudul👋
 
- <a class="heading-link" haref="i'm-a-Front-End Develpoer-in-Bangladesh">i'm a <strong>Front-End Developer</strong> from <Strong>Bangladesh </strong></a>
+ <a class="heading-link" haref="i'm-a-Front-End Develpoer-in-Bangladesh">i'm a <strong> Diploma Engineer</strong> and <strong> Front-End Developer</strong> from <Strong>Bangladesh </strong></a>
 
 
 <ul>
