@@ -1,4 +1,5 @@
-### Hi there my gorgeous friend ,I am <h1> Mahmudul Hasan</h1>👋
+### Hi there my gorgeous friend ,<strong>  I am Mahmudul Hasan</strong> 👋
+</br>
 
 ![WhatsApp Image 2024-04-11 at 11 49 40 PM (1)](https://github.com/mahmudul7608/mahmudul7608/assets/146390183/31b206db-8479-4334-91a6-5c54a12b5981)
 
@@ -11,12 +12,12 @@
 <ul>
   <li>🏢 I’m currently intern in <strong>CONNEKT STUDIO</strong> </li>
   <li>🌱 I am learning: <strong> HTML, CSS, Tailwind CSS and JavaScript</strong></li>
-  <li>⚙️ I use daily: <strong>HTML, CSS, Talwind CSS, Javascript, Git and GitHub</strong> </li>
-  <li>💬 Ping me about: <strong>JavaScript</strong>  </li>
+  <li>⚙️ I use daily: <strong>HTML, CSS, Talwind CSS, Javascript, React JS, Git and GitHub</strong> </li>
+  <li>💬 Ping me about: <strong>JavaScript and React JS</strong>  </li>
   <li>📫 Reach me: https://twitter.com/Hasan01Mah69078</li>
  or E-Mail
  <li> <b>dev.mahmudulhasan2@gmail.com</b></li>
-  <li>⚡ Fun fact: <strong>I like to traveling and programming </strong> </li>
+  <li>⚡ Fun fact: <strong>I like to traveling, programming, Problem solving and Designing </strong> </li>
 </ul>
 <h1>Languages and Tools:</h1>
 <p align="left" dir="auto">
