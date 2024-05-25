@@ -1,5 +1,6 @@
-### Hi there my gorgeous friend , I am Mahmudul Hasan👋
-![1703706759412-removebg-preview (2)](https://github.com/mahmudul7608/mahmudul7608/assets/146390183/b19bf167-4e9d-4d15-b123-6b9c17c5711d)
+### Hi there my gorgeous friend ,I am <h1> Mahmudul Hasan</h1>👋
+
+![WhatsApp Image 2024-04-11 at 11 49 40 PM (1)](https://github.com/mahmudul7608/mahmudul7608/assets/146390183/31b206db-8479-4334-91a6-5c54a12b5981)
 
 
 
@@ -14,7 +15,7 @@
   <li>💬 Ping me about: <strong>JavaScript</strong>  </li>
   <li>📫 Reach me: https://twitter.com/Hasan01Mah69078</li>
  or E-Mail
- <li> dev.mahmudulhasan2@gmail.com</li>
+ <li> <b>dev.mahmudulhasan2@gmail.com</b></li>
   <li>⚡ Fun fact: <strong>I like to traveling and programming </strong> </li>
 </ul>
 <h1>Languages and Tools:</h1>
