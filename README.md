@@ -1,18 +1,13 @@
-### Hi there my gorgeous friend ,<strong>  I am Mahmudul Hasan</strong> 👋
-</br>
-
-![WhatsApp Image 2024-04-11 at 11 49 40 PM (1)](https://github.com/mahmudul7608/mahmudul7608/assets/146390183/31b206db-8479-4334-91a6-5c54a12b5981)
+### Hi there </br>my gorgeous friend ,<strong>  I am Mahmudul Hasan</strong> 👋
 
 
-
-
- <a class="heading-link" haref="i'm-a-Front-End Develpoer-in-Bangladesh">i'm a <strong> Diploma Engineer</strong> and <strong> Front-End Developer</strong> from <Strong>Bangladesh </strong></a>
+ <a class="heading-link" haref="i'm-a-🎓 Diploma Engineer | ⚛️ Front-End Dev |-in-Bangladesh">i'm a <strong> Diploma Engineer</strong> and <strong> Front-End Developer</strong> from <Strong>Bangladesh </strong></a>
 
 
 <ul>
   <li>🏢 I’m currently intern in <strong>CONNEKT STUDIO</strong> </li>
-  <li>🌱 I am learning: <strong> HTML, CSS, Tailwind CSS and JavaScript</strong></li>
-  <li>⚙️ I use daily: <strong>HTML, CSS, Talwind CSS, Javascript, React JS, Git and GitHub</strong> </li>
+  <li>🌱 I am learning: <strong> HTML, CSS, Tailwind CSS, JavaScript, ReactJS</strong></li>
+  <li>⚙️ I use daily: <strong>HTML, CSS, Talwind CSS, Javascript, React JS, Git and GitHub , Netlify</strong> </li>
   <li>💬 Ping me about: <strong>JavaScript and React JS</strong>  </li>
   <li>📫 Reach me: https://twitter.com/Hasan01Mah69078</li>
  or E-Mail
@@ -21,7 +16,9 @@
 </ul>
 <h1>Languages and Tools:</h1>
 <p align="left" dir="auto">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="max-width: 100%;"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="max-width: 100%;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZbZRHsGIPHphj_dtaCEpwlKYSR_kwfJrAcGdI84eWssxBzY2It2fQUHIxAbF0BOc1Vk&usqp=CAU.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"> 
+
   
   </p>
 
