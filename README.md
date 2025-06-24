@@ -1,8 +1,8 @@
-### Hi there, </br><strong>  I am Mahmudul Hasan</strong> 👋
+ <strong><h3 align="center" class="heading-element" dir="auto">Hi there,👋</h3> <h1 align="center" class="heading-element" dir="auto">I am Mahmudul Hasan</h1> </strong> 
 
+<p align="center" class="heading-element" dir="auto">I'm a <strong>Diploma Engineer</strong> and <strong>Front-End Developer</strong> from <strong>Bangladesh</strong>.</p>
 
-I'm a <strong>Diploma Engineer</strong> and <strong>Front-End Developer</strong> from <strong>Bangladesh</strong>.
-
+![Screenshot 2025-06-10 113635](https://github.com/user-attachments/assets/69e73768-2fe2-4b9e-844b-fa8d402aae56)
 
 <ul>
   <li>🏢 I’m currently intern in <strong>CONNEKT STUDIO</strong> </li>
