@@ -1,7 +1,7 @@
-### Hi there </br>my gorgeous friend ,<strong>  I am Mahmudul Hasan</strong> 👋
+### Hi there </br<strong>  I am Mahmudul Hasan</strong> 👋
 
 
- <a class="heading-link" haref="i'm-a-🎓 Diploma Engineer | ⚛️ Front-End Dev |-in-Bangladesh">i'm a <strong> Diploma Engineer</strong> and <strong> Front-End Developer</strong> from <Strong>Bangladesh </strong></a>
+I'm a <strong>Diploma Engineer</strong> and <strong>Front-End Developer</strong> from <strong>Bangladesh</strong>.
 
 
 <ul>
@@ -20,7 +20,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="max-width: 100%;"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="max-width: 100%;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZbZRHsGIPHphj_dtaCEpwlKYSR_kwfJrAcGdI84eWssxBzY2It2fQUHIxAbF0BOc1Vk&usqp=CAU.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"> 
 
- 
 <h1>Social Media:</h1> 
 <p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmudul-hasan-318995294/" height="30" width="40" style="max-width: 100%;"></a>
