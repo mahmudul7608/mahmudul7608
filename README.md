@@ -102,4 +102,6 @@
 <div align="center" dir="auto">
 <p dir="auto">If you find my work valuable and want to support my open-source contributions:</p>
 <p dir="auto"><a href="https://www.buymeacoffee.com/ehsanCodeVoyager" rel="nofollow"><img src="https://camo.githubusercontent.com/c3876b816b61aeefefeb16a3a0b6197f417feb6fa85a68325f4f495e54595302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275795f4d655f415f436f666665652d537570706f72745f4d795f576f726b2d4646444430303f7374796c653d666f722d7468652d6261646765266c6f676f3d6275792d6d652d612d636f66666565266c6f676f436f6c6f723d626c61636b" alt="Buy Me A Coffee" data-canonical-src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" style="max-width: 100%;"></a></p>
-</div>
+</div> 
+<hr> 
+<div align="center" dir="auto"> <p dir="auto"><strong>📍 Based in Bogura, Dhaka, Bangladesh</strong> | <strong>🌏 Available for Remote Opportunities</strong></p>
