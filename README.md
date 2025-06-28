@@ -1,8 +1,9 @@
  <strong><h3 align="center" class="heading-element" dir="auto">Hi there,👋</h3> <h1 align="center" class="heading-element" dir="auto">I'm Mahmudul Hasan</h1> </strong> 
+<hr>
 
 <p align="center" class="heading-element" dir="auto">I'm a <strong>Diploma Engineer</strong> and <strong>Front-End Developer</strong> from <strong>Bangladesh</strong>.</p>
 
-![Screenshot 2025-06-10 113635](https://github.com/user-attachments/assets/69e73768-2fe2-4b9e-844b-fa8d402aae56) 
+
 
 <ul>
   <li>🏢 I’m currently intern in <strong>CONNEKT STUDIO</strong> </li>
@@ -15,9 +16,10 @@
   <li>⚡ Fun fact: <strong>I like to traveling, programming, Problem solving and Designing </strong> </li>
 </ul> 
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🚀 Skills &amp; Technologies</h2><a id="user-content--skills--technologies" class="anchor" aria-label="Permalink: 🚀 Skills &amp; Technologies" href="#-skills--technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🚀 Skills &amp; Technologies</h2><a id="user-content--skills--technologies" class="anchor" aria-label="Permalink: 🚀 Skills &amp; Technologies" href="#-skills--technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div> <hr>
 
-<h1>Languages and Tools:</h1>
+<h1>Languages and Tools:</h1> 
+<hr>
 <markdown-accessiblity-table data-catalyst=""><table>
   <tbody><tr>
     <td align="center" width="96">
@@ -55,9 +57,9 @@
   </tr>
   
   </tr>
-</tbody></table></markdown-accessiblity-table> 
+</tbody></table></markdown-accessiblity-table> <hr>
 
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🔧 Tools &amp; Others</h3><a id="user-content--tools--others" class="anchor" aria-label="Permalink: 🔧 Tools &amp; Others" href="#-tools--others"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🔧 Tools &amp; Others</h3><a id="user-content--tools--others" class="anchor" aria-label="Permalink: 🔧 Tools &amp; Others" href="#-tools--others"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div> <hr>
 
 <table>
   <tbody><tr>
@@ -87,11 +89,17 @@
     </td>
    
   </tr>
-</tbody></table>
+</tbody></table> <hr>
 
 <h1>Social Media:</h1> 
 <p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmudul-hasan-318995294/" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://x.com/mh_meraj_dev" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mh_meraj_dev" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/m.h_meraj0.01/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.h_meraj0.01/" height="30" width="40" style="max-width: 100%;"></a>
-</p> 
+</p>  
+<hr>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">☕ <strong>Support My Journey</strong></h2><a id="user-content--support-my-journey" class="anchor" aria-label="Permalink: ☕ Support My Journey" href="#-support-my-journey"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div> 
+<div align="center" dir="auto">
+<p dir="auto">If you find my work valuable and want to support my open-source contributions:</p>
+<p dir="auto"><a href="https://www.buymeacoffee.com/ehsanCodeVoyager" rel="nofollow"><img src="https://camo.githubusercontent.com/c3876b816b61aeefefeb16a3a0b6197f417feb6fa85a68325f4f495e54595302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275795f4d655f415f436f666665652d537570706f72745f4d795f576f726b2d4646444430303f7374796c653d666f722d7468652d6261646765266c6f676f3d6275792d6d652d612d636f66666565266c6f676f436f6c6f723d626c61636b" alt="Buy Me A Coffee" data-canonical-src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" style="max-width: 100%;"></a></p>
+</div>
