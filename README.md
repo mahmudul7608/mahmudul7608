@@ -3,7 +3,12 @@
 
 <p align="center" class="heading-element" dir="auto">I'm a <strong>Diploma Engineer</strong> and <strong>Front-End Developer</strong> from <strong>Bangladesh</strong>.</p>
 
-
+<div align="center" dir="auto">            
+   <a href="https://sabyasachiseal.com" rel="nofollow">
+   <img width="100%" height="100%" align="center" alt="Coding" src="https://camo.githubusercontent.com/09d7f957c4d23c6b394c04ae2b3767fbc122ccc90e2a704d0bf56d40398f5b66/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d536f726126636f6c6f723d6136313239632663656e7465723d74727565267643656e7465723d747275652677696474683d34353025266c696e65733d57617463682b612b536e616b652b6561742b6d792b636f6e747269627574696f6e732b21" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Sora&amp;color=a6129c&amp;center=true&amp;vCenter=true&amp;width=450%&amp;lines=Watch+a+Snake+eat+my+contributions+!" style="max-width: 100%;">
+   <img align="center" alt="Snake" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" style="max-width: 100%;">
+   </a>
+</div>
 
 <ul>
   <li>🏢 I’m currently intern in <strong>CONNEKT STUDIO</strong> </li>
@@ -104,4 +109,6 @@
 <p dir="auto"><a href="https://www.buymeacoffee.com/ehsanCodeVoyager" rel="nofollow"><img src="https://camo.githubusercontent.com/c3876b816b61aeefefeb16a3a0b6197f417feb6fa85a68325f4f495e54595302/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275795f4d655f415f436f666665652d537570706f72745f4d795f576f726b2d4646444430303f7374796c653d666f722d7468652d6261646765266c6f676f3d6275792d6d652d612d636f66666565266c6f676f436f6c6f723d626c61636b" alt="Buy Me A Coffee" data-canonical-src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" style="max-width: 100%;"></a></p>
 </div> 
 <hr> 
-<div align="center" dir="auto"> <p dir="auto"><strong>📍 Based in Bogura, Dhaka, Bangladesh</strong> | <strong>🌏 Available for Remote Opportunities</strong></p>
+<div align="center" dir="auto"> <p dir="auto"><strong>📍 Based in Bogura, Dhaka, Bangladesh</strong> | <strong>🌏 Available for Remote Opportunities</strong></p> 
+
+
