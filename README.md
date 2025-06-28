@@ -16,9 +16,44 @@
 </ul> 
 
 <h1>Languages and Tools:</h1>
-<p align="left" dir="auto"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="max-width: 100%;"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="max-width: 100%;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZbZRHsGIPHphj_dtaCEpwlKYSR_kwfJrAcGdI84eWssxBzY2It2fQUHIxAbF0BOc1Vk&usqp=CAU.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"> 
+<markdown-accessiblity-table data-catalyst=""><table>
+  <tbody><tr>
+    <td align="center" width="96">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="React" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;"></a>
+      <br>React
+    </td> 
+<td align="center" width="96">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"></a>
+      <br>JavaScript
+    </td>
+<!--     <td align="center" width="96">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c19794479239935607c6c2e501a2f67e495e567ef91e0a1524474d645f52f86c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667"><img src="https://camo.githubusercontent.com/c19794479239935607c6c2e501a2f67e495e567ef91e0a1524474d645f52f86c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" alt="Next.js" width="65" height="65" data-canonical-src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="max-width: 100%;"></a>
+      <br>Next.js
+    </td> -->
+<!--     <td align="center" width="96">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="65" height="65" style="max-width: 100%;"></a>
+      <br>Vue.js
+    </td> -->
+<!--     <td align="center" width="96">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="65" height="65" style="max-width: 100%;"></a>
+      <br>Redux
+    </td> -->
+    <td align="center" width="96">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="65" height="65" style="max-width: 100%;"></a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="65" height="65" style="max-width: 100%;"></a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="Tailwind" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"></a>
+      <br>Tailwind
+    </td> 
+  </tr>
+  
+  </tr>
+</tbody></table></markdown-accessiblity-table>
 
 <h1>Social Media:</h1> 
 <p align="left" dir="auto">
