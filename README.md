@@ -1,14 +1,13 @@
- <strong><h3 align="center" class="heading-element" dir="auto">Hi there,👋</h3> <h1 align="center" class="heading-element" dir="auto">I'm Mahmudul Hasan</h1> </strong> 
-<hr>
-
-<p align="center" class="heading-element" dir="auto">I'm a <strong>Diploma Engineer</strong> and <strong>Front-End Developer</strong> from <strong>Bangladesh</strong>.</p>
-
 <div align="center" dir="auto">            
    <a href="https://sabyasachiseal.com" rel="nofollow">
    <img width="100%" height="100%" align="center" alt="Coding" src="https://camo.githubusercontent.com/09d7f957c4d23c6b394c04ae2b3767fbc122ccc90e2a704d0bf56d40398f5b66/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d536f726126636f6c6f723d6136313239632663656e7465723d74727565267643656e7465723d747275652677696474683d34353025266c696e65733d57617463682b612b536e616b652b6561742b6d792b636f6e747269627574696f6e732b21" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Sora&amp;color=a6129c&amp;center=true&amp;vCenter=true&amp;width=450%&amp;lines=Watch+a+Snake+eat+my+contributions+!" style="max-width: 100%;">
    <img align="center" alt="Snake" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" style="max-width: 100%;">
    </a>
 </div>
+ <strong><h3 align="center" class="heading-element" dir="auto">Hi there,👋</h3> <h1 align="center" class="heading-element" dir="auto">I'm Mahmudul Hasan</h1> </strong> 
+<hr>
+
+<p align="center" class="heading-element" dir="auto">I'm a <strong>Diploma Engineer</strong> and <strong>Front-End Developer</strong> from <strong>Bangladesh</strong>.</p>
 
 <ul>
   <li>🏢 I’m currently intern in <strong>CONNEKT STUDIO</strong> </li>
