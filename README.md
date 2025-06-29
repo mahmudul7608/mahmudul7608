@@ -3,7 +3,8 @@
    <img width="100%" height="100%" align="center" alt="Coding" src="https://camo.githubusercontent.com/09d7f957c4d23c6b394c04ae2b3767fbc122ccc90e2a704d0bf56d40398f5b66/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d536f726126636f6c6f723d6136313239632663656e7465723d74727565267643656e7465723d747275652677696474683d34353025266c696e65733d57617463682b612b536e616b652b6561742b6d792b636f6e747269627574696f6e732b21" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Sora&amp;color=a6129c&amp;center=true&amp;vCenter=true&amp;width=450%&amp;lines=Watch+a+Snake+eat+my+contributions+!" style="max-width: 100%;">
    <img align="center" alt="Snake" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" style="max-width: 100%;">
    </a>
-</div>
+</div> 
+<hr>
  <strong><h3 align="center" class="heading-element" dir="auto">Hi there,👋</h3> <h1 align="center" class="heading-element" dir="auto">I'm Mahmudul Hasan</h1> </strong> 
 <hr>
 
@@ -34,30 +35,19 @@
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg" style="max-width: 100%;"></a>
       <br>JavaScript
     </td>
-<!--     <td align="center" width="96">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c19794479239935607c6c2e501a2f67e495e567ef91e0a1524474d645f52f86c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667"><img src="https://camo.githubusercontent.com/c19794479239935607c6c2e501a2f67e495e567ef91e0a1524474d645f52f86c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" alt="Next.js" width="65" height="65" data-canonical-src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="max-width: 100%;"></a>
-      <br>Next.js
-    </td> -->
-<!--     <td align="center" width="96">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="65" height="65" style="max-width: 100%;"></a>
-      <br>Vue.js
-    </td> -->
-<!--     <td align="center" width="96">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="65" height="65" style="max-width: 100%;"></a>
-      <br>Redux
-    </td> -->
-    <td align="center" width="96">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="65" height="65" style="max-width: 100%;"></a>
-      <br>HTML5
+<td align="center" width="96">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="Tailwind" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"></a>
+      <br>Tailwind
     </td>
-    <td align="center" width="96">
+<td align="center" width="96">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="65" height="65" style="max-width: 100%;"></a>
       <br>CSS
     </td>
-    <td align="center" width="96">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="Tailwind" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"></a>
-      <br>Tailwind
-    </td> 
+
+  <td align="center" width="96">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="65" height="65" style="max-width: 100%;"></a>
+      <br>HTML5
+    </td>
   </tr>
   
   </tr>
@@ -67,31 +57,20 @@
 
 <table>
   <tbody><tr>
-<!--     <td align="center" width="96">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="Docker" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 100%;"></a>
-      <br>Docker
-    </td> -->
-    <td align="center" width="96">
+<td align="center" width="96">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="GitHub" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
       <br>GitHub
     </td>
-    <td align="center" width="96">
+   <td align="center" width="96">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Git" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>
       <br>Git
     </td>
-<!--     <td align="center" width="96">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" style="max-width: 100%;"></a>
-      <br>Linux
-    </td> -->
-<!--     <td align="center" width="96">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Postman" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"></a>
-      <br>Postman
-    </td> -->
-    <td align="center" width="96">
+   <td align="center" width="96">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e5c1b4b7d59d58f0607fede5dd922211257cd09031f3c2370308ab4e34356299/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667"><img src="https://camo.githubusercontent.com/e5c1b4b7d59d58f0607fede5dd922211257cd09031f3c2370308ab4e34356299/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="Figma" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;"></a>
       <br>Figma
     </td>
-   
+
+
   </tr>
 </tbody></table> <hr>
 
