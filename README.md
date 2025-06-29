@@ -59,7 +59,7 @@
   <tbody><tr>
 <td align="center" width="96">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="GitHub" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
-      <br>GitHub
+      <br>LinkedIn
     </td>
    <td align="center" width="96">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Git" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>
@@ -72,14 +72,25 @@
 
 
   </tr>
-</tbody></table> <hr>
+</tbody></table> <hr> 
 
 <h1>Social Media:</h1> 
-<p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmudul-hasan-318995294/" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://x.com/mh_meraj_dev" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mh_meraj_dev" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/m.h_meraj0.01/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.h_meraj0.01/" height="30" width="40" style="max-width: 100%;"></a>
-</p>  
+
+<table>
+  <tbody><tr>
+<td align="center" width="96">
+      <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmudul-hasan-318995294/" height="30" width="40" style="max-width: 100%;"></a>
+      <br>GitHub
+    </td>
+   <td align="center" width="96">
+     <a href="https://www.instagram.com/m.h_meraj0.01/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.h_meraj0.01/" height="30" width="40" style="max-width: 100%;"></a>
+      <br>Instagram
+    </td>
+     
+  </tr>
+</tbody></table> <hr>
+
+ 
 <hr>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">☕ <strong>Support My Journey</strong></h2><a id="user-content--support-my-journey" class="anchor" aria-label="Permalink: ☕ Support My Journey" href="#-support-my-journey"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div> 
 <div align="center" dir="auto">
