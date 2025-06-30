@@ -8,8 +8,9 @@
  <strong><h3 align="center" class="heading-element" dir="auto">Hi there,👋</h3> <h1 align="center" class="heading-element" dir="auto">I'm Mahmudul Hasan</h1> </strong> 
 <hr>
 
-<p align="center" class="heading-element" dir="auto">I'm a <strong>Diploma Engineer</strong> and <strong>Front-End Developer</strong> from <strong>Bangladesh</strong>.</p>
+<p align="center" class="heading-element" dir="auto">I'm a <strong>Diploma Engineer</strong> and <strong>Front-End Developer</strong> from <strong>Bangladesh</strong>.</p> 
 
+<div align="center" dir="auto"><h1 class="heading-element" dir="auto">🌞 🌴 🌬️ 🌻 bio ✨ 🔥 🌊 🫀</h1><a id="user-content---️--bio----" class="anchor" aria-label="Permalink: 🌞 🌴 🌬️ 🌻 bio ✨ 🔥 🌊 🫀" href="#--️--bio----"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <ul>
   <li>🏢 I’m currently intern in <strong>CONNEKT STUDIO</strong> </li>
   <li>🌱 I am learning: <strong> HTML, CSS, Tailwind CSS, JavaScript, ReactJS</strong></li>
@@ -58,8 +59,8 @@
 <table>
   <tbody><tr>
 <td align="center" width="96">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="GitHub" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
-      <br>LinkedIn
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mahmudul7608"><img src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="GitHub" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg" style="max-width: 100%;"></a>
+      <br>GitHub
     </td>
    <td align="center" width="96">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Git" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>
@@ -80,7 +81,7 @@
   <tbody><tr>
 <td align="center" width="96">
       <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmudul-hasan-318995294/" height="65" width="55" style="max-width: 100%;"></a>
-      <br>GitHub
+      <br>LinkedIn
     </td>
    <td align="center" width="96">
      <a href="https://www.instagram.com/m.h_meraj0.01/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.h_meraj0.01/" height="65" width="55" style="max-width: 100%;"></a>
@@ -88,9 +89,20 @@
     </td> 
 <td align="center" width="96">
      <a href="https://x.com/mh_meraj_dev" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="https://www.instagram.com/m.h_meraj0.01/" height="65" width="55" style="max-width: 100%;"></a>
-      <br>Instagram
+      <br>Twitter
     </td>
-     
+     <td align="center" width="96">
+    <a href="" rel="nofollow"><img src="https://camo.githubusercontent.com/197a451eda2a6cffc75c4a45f8866142db6ae7a4a752933f2ffdaa19d5a6c8cb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66616365626f6f6b2f66616365626f6f6b2d69636f6e2e737667" alt="Facebook" height="auto" width="60" data-canonical-src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" style="max-width: 100%;"></a>
+      <br>Facebook
+    </td> 
+<td align="center" width="96">
+ <a href=""><img src="https://camo.githubusercontent.com/e526bbc82bac127815f92d17b11f4a37f9c84dc5869b4cd1e2964b00f5724e8f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676d61696c2f676d61696c2d69636f6e2e737667" alt="Email" height="auto" width="60" data-canonical-src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="max-width: 100%;"></a>
+      <br>Gmail
+    </td>
+<td align="center" width="96">
+ <a href="" rel="nofollow"><img src="https://camo.githubusercontent.com/65da690538feedf097c3c16f2e759ea2645c8af1f8aab34d3f306da4b11ccf29/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656c656772616d2f74656c656772616d2d69636f6e2e737667" alt="Telegram" height="auto" width="60" data-canonical-src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" style="max-width: 100%;"></a>
+      <br>Twiter
+    </td>
   </tr>
 </tbody></table> <hr>
 
