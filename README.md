@@ -79,11 +79,15 @@
 <table>
   <tbody><tr>
 <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmudul-hasan-318995294/" height="30" width="40" style="max-width: 100%;"></a>
+      <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmudul-hasan-318995294/" height="65" width="55" style="max-width: 100%;"></a>
       <br>GitHub
     </td>
    <td align="center" width="96">
-     <a href="https://www.instagram.com/m.h_meraj0.01/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.h_meraj0.01/" height="30" width="40" style="max-width: 100%;"></a>
+     <a href="https://www.instagram.com/m.h_meraj0.01/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m.h_meraj0.01/" height="65" width="55" style="max-width: 100%;"></a>
+      <br>Instagram
+    </td> 
+<td align="center" width="96">
+     <a href="https://x.com/mh_meraj_dev" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="https://www.instagram.com/m.h_meraj0.01/" height="65" width="55" style="max-width: 100%;"></a>
       <br>Instagram
     </td>
      
