@@ -7,39 +7,36 @@
 
 <hr>
 
-<h3 align="center">Hello, World! 👋</h3>
-<h1 align="center">I'm Mahmudul Hasan</h1>
+<h1 align="center">Hi, I'm Mahmudul Hasan 👋</h1>
 <h3 align="center">Front-End Developer | Diploma Engineer | Based in Bangladesh</h3>
 
-<div align="center">
-  <h2>🌟 About Me</h2>
-</div>
 <ul>
   <li>🎓 Diploma in Engineering (Computer Technology)</li>
-  <li>💼 Currently interning at <strong>CONNEKT STUDIO</strong></li>
-  <li>📚 Learning: <strong>HTML, CSS, Tailwind CSS, JavaScript, ReactJS</strong></li>
-  <li>🛠️ Tools I use daily: <strong>HTML, CSS, Tailwind, JavaScript, React, Git, GitHub, Netlify</strong></li>
+  <li>💼 Intern at <strong>CONNEKT STUDIO</strong></li>
+  <li>📚 Currently learning <strong>HTML, CSS, Tailwind CSS, JavaScript, ReactJS</strong></li>
+  <li>🛠️ Daily tools: <strong>VS Code, Git, GitHub, Netlify, Figma</strong></li>
   <li>💬 Ask me about: <strong>JavaScript and React</strong></li>
   <li>📫 Reach me via <a href="mailto:dev.mahmudulhasan2@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" target="_blank">LinkedIn</a></li>
-  <li>✨ Fun fact: I enjoy <strong>traveling, problem solving, and UI designing</strong></li>
+  <li>✨ Fun fact: I enjoy <strong>traveling, solving problems, and UI design</strong></li>
 </ul>
 
-<hr>
 
-<h2>🚀 Skills & Technologies</h2>
+### 🚀 Skills & Technologies
 
-<h3>💻 Languages & Frameworks</h3>
+#### 💻 Languages & Frameworks
+
 <table>
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"><br>React</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"><br>JavaScript</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65"><br>Tailwind</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65"><br>CSS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65"><br>CSS3</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="65"><br>HTML5</td>
   </tr>
 </table>
 
-<h3>🧰 Tools & Platforms</h3>
+#### 🧰 Tools & Platforms
+
 <table>
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"><br>GitHub</td>
@@ -48,9 +45,9 @@
   </tr>
 </table>
 
-<hr>
 
-<h2>🌐 Connect with Me</h2>
+### 🌐 Connect with Me
+
 <table>
   <tr>
     <td align="center">
@@ -76,33 +73,33 @@
   </tr>
 </table>
 
-<hr>
+### 📊 GitHub Stats
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <a href="https://github.com/mahmudul7608" target="_blank">
-    <img src="https://raw.githubusercontent.com/apurva313/apurva313/master/assets/dark/3-stats.svg" alt="GitHub Stats" style="max-width: 100%; width: 400px;">
-  </a>
-  <a href="https://github.com/mahmudul7608" target="_blank">
-    <img src="https://raw.githubusercontent.com/apurva313/apurva313/master/assets/dark/4-productive-time.svg" alt="Productive Time" style="max-width: 100%; width: 400px;">
-  </a>
+<div align="center">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark" 
+      alt="GitHub Stats" 
+      style="max-width: 100%; width: 400px;"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&show_icons=true&locale=en&layout=compact&theme=dark" 
+      alt="Top Languages" 
+      style="max-width: 100%; width: 400px;"
+    />
+  </div>
 </div>
 
+### ☕ Support My Journey
 
-<hr>
-
-<h2 align="center">☕ Support My Journey</h2>
 <div align="center">
-  <p>If you find my work helpful and would like to support my open-source contributions:</p>
+  <p>If you enjoy my work and would like to support my open-source contributions:</p>
   <a href="https://www.buymeacoffee.com/ehsanCodeVoyager" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </div>
-
 <hr>
 
 <div align="center">
   <p><strong>📍 Based in Bogura, Dhaka, Bangladesh</strong> | <strong>🌏 Open to Remote Opportunities</strong></p>
 </div>
-
-<hr>
