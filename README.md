@@ -8,10 +8,10 @@
 
 <hr>
 <h1 align="center">Hi, I'm Mahmudul Hasan 👋</h1>
-<h3 align="center">Front-End Developer | Diploma Engineer | Based in Bangladesh</h3>
+<h3 align="center">Front-End Developer | 🎓 Diploma Engineer | Based in Bangladesh</h3>
 
 <ul>
-  <li>🎓 Diploma in Engineering (Computer Technology)</li>
+  <li>🎓 Diploma in Engineering</li>
   <li>💼 Intern at <strong>CONNEKT STUDIO</strong></li>
   <li>📚 Currently learning <strong>HTML, CSS, Tailwind CSS, JavaScript, ReactJS</strong></li>
   <li>🛠️ Daily tools: <strong>VS Code, Git, GitHub, Netlify, Figma</strong></li>
@@ -74,12 +74,25 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&show_icons=true&locale=en&layout=compact&theme=dark" width="400" />
+  <a href="https://github.com/mahmudul7608" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@mahmudul7608-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
 </div>
+
 <div align="center">
-  <h4>Keep Learning & Keep Moving Forward <img src="https://github.com/chandrakant22/chandrakant22/raw/main/mario.gif" height="40"></h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&layout=compact&theme=dark" width="400" alt="Top Languages" />
 </div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul7608&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <h4>Keep Learning & Keep Moving Forward 🚀</h4>
+  <img src="https://github.com/chandrakant22/chandrakant22/raw/main/mario.gif" height="40" alt="Mario Running Animation" />
+</div>
+
 ### ☕ Support My Journey
 
 <div align="center">
