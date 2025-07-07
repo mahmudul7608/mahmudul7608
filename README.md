@@ -20,7 +20,6 @@
   <li>✨ Fun fact: I enjoy <strong>traveling, solving problems, and UI design</strong></li>
 </ul>
 
-
 ### 🚀 Skills & Technologies
 
 #### 💻 Languages & Frameworks
@@ -45,30 +44,29 @@
   </tr>
 </table>
 
-
 ### 🌐 Connect with Me
 
 <table>
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="55">
-      </a><br>LinkedIn
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="55"><br>LinkedIn
+      </a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/m.h_meraj0.01/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="55">
-      </a><br>Instagram
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="55"><br>Instagram
+      </a>
     </td>
     <td align="center">
       <a href="https://x.com/mh_meraj_dev" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" width="55">
-      </a><br>Twitter
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" width="55"><br>Twitter
+      </a>
     </td>
     <td align="center">
       <a href="mailto:dev.mahmudulhasan2@gmail.com">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="60">
-      </a><br>Email
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="60"><br>Email
+      </a>
     </td>
   </tr>
 </table>
@@ -76,18 +74,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark" 
-      alt="GitHub Stats" 
-      style="max-width: 100%; width: 400px;"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&show_icons=true&locale=en&layout=compact&theme=dark" 
-      alt="Top Languages" 
-      style="max-width: 100%; width: 400px;"
-    />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&show_icons=true&locale=en&layout=compact&theme=dark" width="400" />
 </div>
 
 ### ☕ Support My Journey
@@ -98,8 +86,10 @@
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </div>
-<hr>
 
 <div align="center">
   <p><strong>📍 Based in Bogura, Dhaka, Bangladesh</strong> | <strong>🌏 Open to Remote Opportunities</strong></p>
+  <a href="https://komarev.com/ghpvc/?username=mahmudul7608&label=👀%20Profile%20Views&color=0e75b6&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=mahmudul7608&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" height="40" />
+  </a>
 </div>
