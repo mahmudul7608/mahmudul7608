@@ -1,4 +1,5 @@
-<div align="center">
+
+ <div align="center">
   <a href="https://github.com/mahmudul7608" target="_blank" rel="nofollow">
     <img width="100%" alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=a6129c&center=true&vCenter=true&width=450&lines=Watch+a+Snake+eat+contributions+!">
   </a>
@@ -6,7 +7,6 @@
 </div>
 
 <hr>
-
 <h1 align="center">Hi, I'm Mahmudul Hasan 👋</h1>
 <h3 align="center">Front-End Developer | Diploma Engineer | Based in Bangladesh</h3>
 
@@ -77,7 +77,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&show_icons=true&locale=en&layout=compact&theme=dark" width="400" />
 </div>
-
+<div align="center">
+  <h4>Keep Learning & Keep Moving Forward <img src="https://github.com/chandrakant22/chandrakant22/raw/main/mario.gif" height="40"></h4>
+</div>
 ### ☕ Support My Journey
 
 <div align="center">
