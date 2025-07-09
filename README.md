@@ -100,10 +100,10 @@
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </div>
-
+<br>
 <div align="center">
-  <p><strong>📍 Based in Bogura, Dhaka, Bangladesh</strong> | <strong>🌏 Open to Remote Opportunities</strong></p>
+  <p><strong>📍 Based in Bogura, Dhaka, Bangladesh</strong> | <strong>🌏 Open to Remote Opportunities</strong></p> <br>
   <a href="https://komarev.com/ghpvc/?username=mahmudul7608&label=👀%20Profile%20Views&color=0e75b6&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=mahmudul7608&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" height="40" />
+    <img src="https://komarev.com/ghpvc/?username=mahmudul7608&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" height="70" width="150"  />
   </a>
 </div>
