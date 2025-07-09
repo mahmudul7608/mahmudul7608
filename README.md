@@ -89,11 +89,10 @@
 </div>
 
 <div align="center">
-  <h4>Keep Learning & Keep Moving Forward 🚀</h4>
+  <h4>Keep Learning & Keep Moving Forward </h4>
   <img src="https://github.com/chandrakant22/chandrakant22/raw/main/mario.gif" height="40" alt="Mario Running Animation" />
 </div>
 
-### ☕ Support My Journey
 
 <div align="center">
   <p>If you enjoy my work and would like to support my open-source contributions:</p>
