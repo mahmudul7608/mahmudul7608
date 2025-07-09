@@ -74,19 +74,23 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Profile Badge -->
   <a href="https://github.com/mahmudul7608" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@mahmudul7608-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </div>
 
+<br>
+
 <div align="center">
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark" width="400" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&layout=compact&theme=dark" width="400" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul7608&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</div>
+<br>
 
 <div align="center">
   <h4>Keep Learning & Keep Moving Forward </h4>
