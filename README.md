@@ -8,7 +8,7 @@
 
 <hr>
 <h1 align="center">Hi, I'm Mahmudul Hasan 👋</h1>
-<h3 align="center">Front-End Developer | 🎓 Diploma Engineer | Based in Bangladesh</h3>
+<h3 align="center"> 🛠️ Front-End Developer || 🎓 Diploma Engineer </h3>
 
 <ul>
   <li>🎓 Diploma in Engineering</li>
