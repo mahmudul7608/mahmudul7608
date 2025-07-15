@@ -70,13 +70,24 @@
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="60"><br>Email
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.facebook.com/yourprofile" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="55"><br>Facebook
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/yourusername" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="55"><br>Telegram
+      </a>
+    </td>
   </tr>
 </table>
+
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Profile Badge -->
+  
   <a href="https://github.com/mahmudul7608" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@mahmudul7608-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
@@ -85,10 +96,10 @@
 <br>
 
 <div align="center">
-  <!-- GitHub Stats Card -->
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark" width="400" alt="GitHub Stats" />
   
-  <!-- Top Languages -->
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&layout=compact&theme=dark" width="400" alt="Top Languages" />
 </div>
 
