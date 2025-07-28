@@ -20,9 +20,9 @@
   <li>✨ Fun fact: I enjoy <strong>traveling, solving problems, and UI design</strong></li>
 </ul>
 
-### 🚀 Skills & Technologies
+🚀 Skills & Technologies
 
-#### 💻 Languages & Frameworks
+💻 Languages & Frameworks
 
 <table>
   <tr>
@@ -38,7 +38,7 @@
 
 
 
-#### 🧰 Tools & Platforms
+ 🧰 Tools & Platforms
 
 <table>
   <tr>
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-### 🌐 Connect with Me
+🌐 Connect with Me
 
 <table>
   <tr>
@@ -86,7 +86,7 @@
 </table>
 
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
   
