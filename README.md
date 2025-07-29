@@ -98,12 +98,13 @@
 <br>
 
 <div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark" width="400" alt="GitHub Stats" />
-  
 
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&include_all_commits=true&locale=en&theme=dark" width="400" alt="GitHub Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&layout=compact&theme=dark" width="400" alt="Top Languages" />
+
 </div>
+
 
 <br>
 
