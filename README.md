@@ -45,8 +45,10 @@
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"><br>GitHub</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"><br>Git</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="65"><br>Figma</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="65"><br>Canva</td>
   </tr>
 </table>
+
 
 🌐 Connect with Me
 
