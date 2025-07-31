@@ -28,15 +28,12 @@
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="65"><br>Nuxt.js</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="65"><br>Vue.js</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"><br>React</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"><br>React.js</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65"><br>Tailwind</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="65"><br>HTML5</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65"><br>CSS3</td>
   </tr>
 </table>
-
-
-
 
  🧰 Tools & Platforms
 
@@ -45,6 +42,7 @@
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"><br>GitHub</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"><br>Git</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="65"><br>Figma</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="65"><br>Photoshop</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="65"><br>Canva</td>
   </tr>
 </table>
