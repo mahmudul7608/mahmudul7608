@@ -29,8 +29,8 @@
     <td align="center"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="65"><br>Nuxt.js</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="65"><br>Vue.js</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"><br>React.js</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65"><br>Tailwind</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="65"><br>HTML5</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65"><br>Tailwind CSS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="65"><br>HTML-5</td> 
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65"><br>CSS3</td>
   </tr>
 </table>
