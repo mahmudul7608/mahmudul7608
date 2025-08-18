@@ -13,7 +13,7 @@
 <ul>
   <li>🎓 Diploma in Engineering</li>
   <li>💼 Intern at <strong>CONNEKT STUDIO</strong></li>
-  <li>📚 Currently learning <strong>HTML, CSS, Tailwind CSS, JavaScript, React JS , Vue JS, Nuxt Js</strong></li>
+  <li>📚 Currently learning <strong>HTML, CSS, Tailwind CSS, JavaScript, React JS , Vue JS, Nuxt Js, Firebase</strong></li>
   <li>🛠️ Daily tools: <strong>VS Code, Git, GitHub, Netlify, Figma</strong></li>
   <li>💬 Ask me about: <strong>JavaScript,  Vue JS, React JS</strong></li>
   <li>📫 Reach me via <a href="mailto:dev.mahmudulhasan2@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" target="_blank">LinkedIn</a></li>
