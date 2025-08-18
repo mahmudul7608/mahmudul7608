@@ -26,24 +26,43 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="40"><br>Nuxt.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"><br>Vue.js</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"><br>React.js</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"><br>Tailwind</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"><br>HTML-5</td> 
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"><br>CSS3</td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"><br>Firebase
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"><br>React.js
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="45"><br>Nuxt.js
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"><br>Vue.js
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"><br>Tailwind
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"><br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"><br>HTML-5
+    </td>
   </tr>
 </table>
+
 
  🧰 Tools & Platforms
 
 <table>
   <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"><br>GitHub</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"><br>Git</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="65"><br>Figma</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="65"><br>Photoshop</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="65"><br>Canva</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"><br>GitHub</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"><br>Git</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"><br>Figma</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="45"><br>Photoshop</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45"><br>Canva</td>
   </tr>
 </table>
 
@@ -54,32 +73,32 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="55"><br>LinkedIn
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45"><br>LinkedIn
       </a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/m.h_meraj0.01/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="55"><br>Instagram
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="45"><br>Instagram
       </a>
     </td>
     <td align="center">
       <a href="https://x.com/mh_meraj_dev" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" width="55"><br>Twitter
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" width="45"><br>Twitter
       </a>
     </td>
     <td align="center">
       <a href="mailto:dev.mahmudulhasan2@gmail.com">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="60"><br>Email
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="45"><br>Email
       </a>
     </td>
     <td align="center">
       <a href="https://www.facebook.com/yourprofile" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="55"><br>Facebook
+        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="45"><br>Facebook
       </a>
     </td>
     <td align="center">
       <a href="https://t.me/yourusername" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="55"><br>Telegram
+        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="45"><br>Telegram
       </a>
     </td>
   </tr>
