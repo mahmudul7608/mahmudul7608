@@ -30,7 +30,10 @@
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"><br>Firebase
     </td>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"><br>React.js
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="37"><br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45"><br>React.js
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="45"><br>Nuxt.js
@@ -42,29 +45,50 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"><br>JavaScript
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"><br>Tailwind
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"><br>Tailwind
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"><br>CSS3
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"><br>CSS3
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"><br>HTML-5
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"><br>HTML-5
     </td>
   </tr>
 </table>
 
-
- 🧰 Tools & Platforms
-
+ <h4>🧰 Tools & Platforms</h4>
 <table>
   <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45"><br>GitHub</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"><br>Git</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"><br>Figma</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="45"><br>Photoshop</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45"><br>Canva</td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"><br>Git
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"><br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"><br>Figma
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40"><br>Photoshop
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"><br>Canva
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45"><br>NPM
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="45"><br>Yarn
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="45"><br>Netlify
+    </td>
   </tr>
 </table>
+
 
 
 🌐 Connect with Me
