@@ -13,11 +13,11 @@
 <ul>
   <li>🎓 Diploma in Engineering</li>
   <li>💼 Intern at <strong>CONNEKT STUDIO</strong></li>
-  <li>📚 Currently learning <strong>HTML, CSS, Tailwind CSS, JavaScript, React JS , Vue JS, Nuxt Js, Firebase</strong></li>
+  <li>📚 Currently learning <strong>HTML, CSS, Tailwind CSS, JavaScript, React JS , Vue JS, Nuxt Js, NodeJs, Firebase</strong></li>
   <li>🛠️ Daily tools: <strong>VS Code, Git, GitHub, Netlify, Figma</strong></li>
   <li>💬 Ask me about: <strong>JavaScript,  Vue JS, React JS</strong></li>
   <li>📫 Reach me via <a href="mailto:dev.mahmudulhasan2@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" target="_blank">LinkedIn</a></li>
-  <li>✨ Fun fact: I enjoy <strong>traveling, solving problems, and UI design</strong></li>
+  <li>✨ Fun fact: I enjoy <strong> Coding, solving problems, traveling and UI design</strong></li>
 </ul>
 
 🚀 Skills & Technologies
@@ -144,12 +144,12 @@
   <img 
        src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark" 
        alt="GitHub Stats" 
-       width="400" 
+       width="350" 
   />
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&layout=compact&theme=dark" 
        alt="Top Languages" 
-       width="400" 
+       width="350" 
   />
 </p>
 
