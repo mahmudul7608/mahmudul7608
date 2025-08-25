@@ -181,3 +181,17 @@
     <img src="https://komarev.com/ghpvc/?username=mahmudul7608&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" height="70" width="150"  />
   </a>
 </div>
+
+<br>
+<p align="center">
+  <img 
+    src="https://img.shields.io/badge/Wakatime-150hrs%2030mins-blueviolet?style=for-the-badge&logo=wakatime" 
+    alt="Wakatime 150 hrs 30 mins" 
+    width="250"
+  />
+</p>
+
+
+
+
+
