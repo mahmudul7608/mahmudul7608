@@ -128,6 +128,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" 
+       alt="Spider-Man No Way Home" 
+       width="300" />
+</p>
+
 
 📊 GitHub Stats
 
