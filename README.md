@@ -135,8 +135,6 @@
 </p>
 
 
-📊 GitHub Stats
-
 <div align="center">
   
   <a href="https://github.com/mahmudul7608" target="_blank">
