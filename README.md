@@ -7,8 +7,20 @@
 </div>
 
 <hr>
-<h1 align="center">Hi, I'm Mahmudul Hasan 👋</h1>
-<h3 align="center"> 🛠️ Front-End Developer || 🎓 Diploma Engineer </h3>
+<h1 align="center">Hi, I'm Mahmudul Hasan 👋</h1> 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" height="150px" />
+    </td>
+    <td>
+      <h3 align="center"> 🛠️ Front-End Developer || 🎓 Diploma Engineer </h3>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" height="150px" />
+    </td>
+  </tr>
+</table>
 
 <ul>
   <li>🎓 Diploma in Engineering</li>
@@ -17,7 +29,7 @@
   <li>🛠️ Daily tools: <strong>VS Code, Git, GitHub, Netlify, Figma</strong></li>
   <li>💬 Ask me about: <strong>JavaScript,  Vue JS, React JS</strong></li>
   <li>📫 Reach me via <a href="mailto:dev.mahmudulhasan2@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" target="_blank">LinkedIn</a></li>
-  <li>✨ Fun fact: I enjoy <strong> Coding, solving problems, traveling and UI design</strong></li>
+  <li>✨ Fun fact: I enjoy <strong> Coding, solving problems, traveling and UI design</strong></li> 
 </ul>
 
 🚀 Skills & Technologies
