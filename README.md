@@ -146,14 +146,6 @@
        width="300" />
 </p>
 
-
-<div align="center">
-  
-  <a href="https://github.com/mahmudul7608" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@mahmudul7608-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-</div>
-
 <br>
 
 <p align="center">
@@ -195,8 +187,8 @@
 <br>
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/Wakatime-270hrs%2040mins-blueviolet?style=for-the-badge&logo=wakatime" 
-    alt="Wakatime 270 hrs 40 mins" 
+    src="https://img.shields.io/badge/Wakatime-278hrs%2030mins-blueviolet?style=for-the-badge&logo=wakatime" 
+    alt="Wakatime 278 hrs 20 mins" 
     width="240"
   />
 </p>
