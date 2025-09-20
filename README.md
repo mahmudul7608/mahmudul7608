@@ -8,19 +8,19 @@
 
 <hr>
 <h1 align="center">Hi, I'm Mahmudul Hasan 👋</h1> 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" height="150px" />
-    </td>
-    <td>
-      <h3 align="center"> 🛠️ Front-End Developer || 🎓 Diploma Engineer </h3>
-    </td>
-    <td>
-      <img src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" height="150px" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+  <!-- Left Image -->
+  <img 
+    src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" 
+    height="80px" 
+  />
+
+  <!-- Text -->
+  <h3 style="margin: 0; text-align: center;">
+    🛠️ Front-End Developer || 🎓 Diploma Engineer
+  </h3>
+</div>
+
 
 <ul>
   <li>🎓 Diploma in Engineering</li>
@@ -187,8 +187,8 @@
 <br>
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/Wakatime-310hrs%2010mins-blueviolet?style=for-the-badge&logo=wakatime" 
-    alt="Wakatime 310 hrs 10 mins" 
+    src="https://img.shields.io/badge/Wakatime-320hrs%2020mins-blueviolet?style=for-the-badge&logo=wakatime" 
+    alt="Wakatime 320 hrs 20 mins" 
     width="230"
   />
 </p>
