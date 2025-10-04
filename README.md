@@ -25,7 +25,7 @@
 <ul>
   <li>🎓 Diploma in Engineering</li>
   <li>💼 Intern at <strong>CONNEKT STUDIO</strong></li>
-  <li>📚 Currently learning <strong>HTML, CSS, Tailwind CSS, JavaScript, React JS , Vue JS, Nuxt Js, NodeJs, Firebase</strong></li>
+  <li>📚 Currently learning <strong>HTML, CSS, Tailwind CSS, JavaScript, React JS , Vue JS, Nuxt Js, NodeJs, Firebase, MongoDB</strong></li>
   <li>🛠️ Daily tools: <strong>VS Code, Git, GitHub, Netlify, Figma</strong></li>
   <li>💬 Ask me about: <strong>JavaScript,  Vue JS, React JS</strong></li>
   <li>📫 Reach me via <a href="mailto:dev.mahmudulhasan2@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" target="_blank">LinkedIn</a></li>
@@ -187,8 +187,8 @@
 <br>
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/Wakatime-332hrs%2020mins-blueviolet?style=for-the-badge&logo=wakatime" 
-    alt="Wakatime 332 hrs 20 mins" 
+    src="https://img.shields.io/badge/Wakatime-335hrs%2010mins-blueviolet?style=for-the-badge&logo=wakatime" 
+    alt="Wakatime 335 hrs 10 mins" 
     width="230"
   />
 </p>
