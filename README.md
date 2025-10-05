@@ -187,8 +187,8 @@
 <br>
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/Wakatime-335hrs%2010mins-blueviolet?style=for-the-badge&logo=wakatime" 
-    alt="Wakatime 335 hrs 10 mins" 
+    src="https://img.shields.io/badge/Wakatime-305hrs%2010mins-blueviolet?style=for-the-badge&logo=wakatime" 
+    alt="Wakatime 305 hrs 10 mins" 
     width="230"
   />
 </p>
