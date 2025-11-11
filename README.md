@@ -128,12 +128,12 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.facebook.com/yourprofile" target="_blank">
+      <a href="" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="45"><br>Facebook
       </a>
     </td>
     <td align="center">
-      <a href="https://t.me/yourusername" target="_blank">
+      <a href="" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="45"><br>Telegram
       </a>
     </td>
