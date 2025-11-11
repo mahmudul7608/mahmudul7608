@@ -149,17 +149,37 @@
 <br>
 
 <p align="center">
- <img 
-  src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark&cache_seconds=14400&count_private=true"
-  alt="GitHub Stats" 
-  width="350" 
-/>
+  <!-- GitHub Main Stats -->
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&layout=compact&theme=dark" 
-       alt="Top Languages" 
-       width="350" 
+    src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark&count_private=true&cache_seconds=14400" 
+    alt="GitHub Stats" 
+    width="400" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&layout=compact&theme=dark&count_private=true&cache_seconds=14400" 
+    alt="Top Languages" 
+    width="300" 
   />
 </p>
+
+<p align="center">
+  <!-- GitHub Streak (last year commits) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=mahmudul7608&theme=dark&hide_border=false" 
+    alt="GitHub Streak" 
+    width="400" 
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophy (total repos, issues, stars, etc.) -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=mahmudul7608&theme=onestar&no-frame=true&no-bg=false&margin-w=10" 
+    alt="GitHub Trophies" 
+    width="700" 
+  />
+</p>
+
 
 
 <br>
