@@ -181,6 +181,15 @@
 </p>
 
 
+<p align="center">
+  <!-- 📈 Last 2 Years Commit Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul7608&theme=react-dark&hide_border=false&area=true" 
+    alt="GitHub Activity Graph" 
+    width="650" 
+  />
+</p>
+
 
 <br>
 
