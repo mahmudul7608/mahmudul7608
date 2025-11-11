@@ -149,11 +149,11 @@
 <br>
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark" 
-       alt="GitHub Stats" 
-       width="350" 
-  />
+ <img 
+  src="https://github-readme-stats.vercel.app/api?username=mahmudul7608&show_icons=true&locale=en&theme=dark&cache_seconds=14400&count_private=true"
+  alt="GitHub Stats" 
+  width="350" 
+/>
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul7608&layout=compact&theme=dark" 
        alt="Top Languages" 
