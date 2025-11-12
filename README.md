@@ -162,36 +162,6 @@
   />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak (last year commits) -->
-  <img 
-    src="https://streak-stats.demolab.com?user=mahmudul7608&theme=dark&hide_border=false" 
-    alt="GitHub Streak" 
-    width="400" 
-  />
-</p>
-
-<p align="center">
-  <!-- GitHub Trophy (total repos, issues, stars, etc.) -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=mahmudul7608&theme=onestar&no-frame=true&no-bg=false&margin-w=10" 
-    alt="GitHub Trophies" 
-    width="700" 
-  />
-</p>
-
-
-<p align="center">
-  <!-- 📈 Last 2 Years Commit Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul7608&theme=react-dark&hide_border=false&area=true" 
-    alt="GitHub Activity Graph" 
-    width="650" 
-  />
-</p>
-
-
-<br>
 
 <div align="center">
   <h4>Keep Learning & Keep Moving Forward </h4>
