@@ -165,7 +165,7 @@
 
 <div align="center">
   <h4>Keep Learning & Keep Moving Forward </h4>
-  <img src="https://github.com/chandrakant22/chandrakant22/raw/main/mario.gif" height="40" alt="Mario Running Animation" />
+  <img src="https://github.com/chandrakant22/chandrakant22/raw/main/mario.gif" height="50" alt="Mario Running Animation" />
 </div>
 
 
