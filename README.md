@@ -7,7 +7,7 @@
 </div>
 
 <hr>
-<h1 align="center">Hi, I'm Mahmudul Hasan 👋</h1> 
+<h1 align="center">𝗛𝗶, 𝗜'𝗺 𝗠𝗮𝗵𝗺𝘂𝗱𝘂𝗹 𝗛𝗮𝘀𝗮𝗻 👋</h1> 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
   <!-- Left Image -->
   <img 
@@ -17,19 +17,19 @@
 
   <!-- Text -->
   <h3 style="margin: 0; text-align: center;">
-    🛠️ Front-End Developer || 🎓 Diploma Engineer
+    🛠️ Fʀᴏɴᴛ-Eɴᴅ Dᴇᴠᴇʟᴏᴘᴇʀ || 🎓 Dɪᴘʟᴏᴍᴀ Eɴɢɪɴᴇᴇʀ
   </h3>
 </div>
 
 
 <ul>
-  <li>🎓 Diploma in Engineering</li>
-  <li>💼 Intern at <strong>CONNEKT STUDIO</strong></li>
-  <li>📚 Currently learning <strong>HTML, CSS, Tailwind CSS, JavaScript, React JS , Vue JS, Nuxt Js, NodeJs, Firebase </strong></li>
-  <li>🛠️ Daily tools: <strong>VS Code, Git, GitHub, Terminal, Nodejs, Netlify, Figma</strong></li>
-  <li>💬 Ask me about: <strong>JavaScript,  Vue JS, React JS</strong></li>
-  <li>📫 Reach me via <a href="mailto:dev.mahmudulhasan2@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" target="_blank">LinkedIn</a></li>
-  <li>✨ Fun fact: I enjoy <strong> Coding, solving problems, traveling and UI design</strong></li> 
+  <li>🎓 𝙳𝚒𝚙𝚕𝚘𝚖𝚊 𝚒𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐</li>
+  <li>💼 𝙸𝚗𝚝𝚎𝚛𝚗 𝚊𝚝 <strong>CONNEKT STUDIO</strong></li>
+  <li>📚 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝙷𝚃𝙼𝙻, 𝙲𝚂𝚂, 𝚃𝚊𝚒𝚕𝚠𝚒𝚗𝚍 𝙲𝚂𝚂, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝, 𝚁𝚎𝚊𝚌𝚝 𝙹𝚂 , 𝚅𝚞𝚎 𝙹𝚂, 𝙽𝚞𝚡𝚝 𝙹𝚜, 𝙽𝚘𝚍𝚎𝙹𝚜, 𝙵𝚒𝚛𝚎𝚋𝚊𝚜𝚎 </li>
+  <li>🛠️ 𝗗𝗮𝗶𝗹𝘆 𝘁𝗼𝗼𝗹𝘀: 𝚅𝚂 𝙲𝚘𝚍𝚎, 𝙶𝚒𝚝, 𝙶𝚒𝚝𝙷𝚞𝚋, 𝚃𝚎𝚛𝚖𝚒𝚗𝚊𝚕, 𝙽𝚘𝚍𝚎𝚓𝚜, 𝙽𝚎𝚝𝚕𝚒𝚏𝚢, 𝙵𝚒𝚐𝚖𝚊 </li>
+  <li>💬  𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁: 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝,  𝚅𝚞𝚎 𝙹𝚂, 𝚁𝚎𝚊𝚌𝚝 𝙹𝚂 </li>
+  <li>📫 𝗥𝗲𝗮𝗰𝗵 𝗺𝗲 𝘃𝗶𝗮 <a href="mailto:dev.mahmudulhasan2@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/mahmudul-hasan-318995294/" target="_blank">LinkedIn</a></li>
+  <li>✨ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁: 𝙸 𝚎𝚗𝚓𝚘𝚢 𝙲𝚘𝚍𝚒𝚗𝚐, 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜, 𝚝𝚛𝚊𝚟𝚎𝚕𝚒𝚗𝚐 𝚊𝚗𝚍 𝚄𝙸 𝚍𝚎𝚜𝚒𝚐𝚗 </li> 
 </ul>
 
 🚀 Skills & Technologies
