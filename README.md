@@ -170,7 +170,7 @@
 
 
 <div align="center">
-  <p>If you enjoy my work and would like to support my open-source contributions:</p>
+  <p>𝕀𝕗 𝕪𝕠𝕦 𝕖𝕟𝕛𝕠𝕪 𝕞𝕪 𝕨𝕠𝕣𝕜 𝕒𝕟𝕕 𝕨𝕠𝕦𝕝𝕕 𝕝𝕚𝕜𝕖 𝕥𝕠 𝕤𝕦𝕡𝕡𝕠𝕣𝕥 𝕞𝕪 𝕠𝕡𝕖𝕟-𝕤𝕠𝕦𝕣𝕔𝕖 𝕔𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤:</p>
   <a href="https://www.buymeacoffee.com/ehsanCodeVoyager" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
