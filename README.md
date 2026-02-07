@@ -32,9 +32,9 @@
   <li>✨ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁: 𝙸 𝚎𝚗𝚓𝚘𝚢 𝙲𝚘𝚍𝚒𝚗𝚐, 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜, 𝚝𝚛𝚊𝚟𝚎𝚕𝚒𝚗𝚐 𝚊𝚗𝚍 𝚄𝙸 𝚍𝚎𝚜𝚒𝚐𝚗 </li> 
 </ul>
 
-🚀 Skills & Technologies
+ <h3>Skills & Technologies</h3>
 
-💻 Languages & Frameworks
+ <h4>💻 Languages & Frameworks</h4>
 
 <table>
   <tr>
@@ -103,7 +103,7 @@
 
 
 
-🌐 Connect with Me
+<h4>🌐 Connect with Me</h4>
 
 <table>
   <tr>
