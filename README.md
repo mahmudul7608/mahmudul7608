@@ -179,7 +179,7 @@
 <div align="center">
   <p><strong>📍 Bᴀꜱᴇᴅ ɪɴ Dʜᴀᴋᴀ, Bᴀɴɢʟᴀᴅᴇꜱʜ</strong> | <strong>🌏 Oᴘᴇɴ ᴛᴏ Rᴇᴍᴏᴛᴇ Oᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ</strong></p> <br>
   <a href="https://komarev.com/ghpvc/?username=mahmudul7608&label=👀%20Profile%20Views&color=0e75b6&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=mahmudul7608&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" height="70" width="150"  />
+    <img src="https://komarev.com/ghpvc/?username=mahmudul7608&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" height="25" width="150"  />
   </a>
 </div>
 
