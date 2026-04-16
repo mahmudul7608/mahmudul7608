@@ -1,4 +1,3 @@
-
  <div align="center">
   <a href="https://github.com/mahmudul7608" target="_blank" rel="nofollow">
     <img width="100%" alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=a6129c&center=true&vCenter=true&width=450&lines=Watch+a+Snake+eat+contributions+!">
@@ -191,8 +190,4 @@
     width="230"
   />
 </p>
-
-
-
-
 
