@@ -1,4 +1,4 @@
- <div align="center">
+v<div align="center">
   <a href="https://github.com/mahmudul7608" target="_blank" rel="nofollow">
     <img width="100%" alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=a6129c&center=true&vCenter=true&width=450&lines=Watch+a+Snake+eat+contributions+!">
   </a>
@@ -185,8 +185,8 @@
 <br>
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/Wakatime-496hrs%2040mins-blueviolet?style=for-the-badge&logo=wakatime" 
-    alt="Wakatime 49hrs8 hrs  40 mins" 
+    src="https://img.shields.io/badge/Wakatime-496hrs%2050mins-blueviolet?style=for-the-badge&logo=wakatime" 
+    alt="Wakatime 49hrs8 hrs  50 mins" 
     width="230"
   />
 </p>
